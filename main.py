@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyChaegghrm-hotfix-mastermodify')
     print_hi('PyChaegghrm-hotfix-hotfixmodify')
     print_hi('PyChaegghrm-hotfix-hotfixmodify')
+    print_hi('remote-modify')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
